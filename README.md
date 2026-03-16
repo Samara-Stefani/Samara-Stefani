@@ -34,8 +34,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
 
+
+---
+## Portfolio
+
+### 📱 [FatecER](https://github.com/Samara-Stefani/Projeto_Pi2.git)
+
+`PHP` `CSS` `JavaScript` `HTML` 
+*Um projeto desenvolvido para simplificar, organizar e tornar mais segura a escolha de representantes em instituições, turmas, grupos ou organizações.*
+
+---
+
+### 🤖 [AnalyzerHub](Link-do-repositorio)
+
+`React` `CSS` `API Groq` `Serverless`
+*Projeto que analisa perfis do GitHub com IA, mostra seguidores e gera insights.*
+
+---
+
+> 💡 *All projects are open for contributions — PRs and issues are very welcome!*
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
