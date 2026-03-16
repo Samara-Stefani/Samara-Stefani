@@ -1,15 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="187" src="https://i.pinimg.com/736x/c8/07/e3/c807e3eba85e7938ccd4f0a388669422.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img height="73" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA05ED&width=435&lines=Bem-vindo(a)+ao+meu+reposit%C3%B3rio"  />
 </div>
 
 ###
@@ -18,15 +10,11 @@
 
 ###
 
-<h3 align="center">Sou estudante de Desenvolvimento de Software e estou construindo um portfólio sólido de projetos pessoais enquanto busco minha primeira oportunidade como desenvolvedora júnior. Sou apaixonada por aprender novas tecnologias e resolver desafios com código.</h3>
+<h4 align="left">Sou estudante de Desenvolvimento de Software e estou construindo um portfólio sólido de projetos pessoais enquanto busco minha primeira oportunidade como desenvolvedora júnior. Sou apaixonada por aprender novas tecnologias e resolver desafios com código.</h4>
 
 ###
 
 <h2 align="left">Linguagens e Ferramentas</h2>
-
-###
-
-<img align="right" height="116" src="https://media1.tenor.com/m/IOQxHefEGmoAAAAC/myu.gif"  />
 
 ###
 
@@ -52,22 +40,30 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samara-Stefani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samara-Stefani&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="700" alt="languages graph"  />
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=Samara-Stefani&hide_border=true&show_icons=true&rank_icon=github&title_color=FF79C6&icon_color=C961D6&text_color=C9D1D9&bg_color=2E1A47">
+<img height="180" align="center" alt="Top Language"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Stefani&layout=compact&hide_border=true&title_color=FF79C6&text_color=C9D1D9&bg_color=2E1A47">
+  <br>
+  <br>
+  <img align="center" alt="Profile Details"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samara-Stefani&theme=jolly"/>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samara-Stefani/Samara-Stefani/output/pacman-contribution-graph-dark.svg">
-  
-</picture>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#960aa6&fontAlign=50&fontAlignY=50&rotate=36&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+
+<div align="center">
+  <img height="99" src="https://capsule-render.vercel.app/api?type=waving&height=98&color=da05ed&fontColor=813191&fontAlign=4&fontAlignY=0&fontSize=-3&section=footer"  />
 </div>
 
 ###
