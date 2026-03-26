@@ -54,17 +54,15 @@
 ---
 
 > 💡 *All projects are open for contributions — PRs and issues are very welcome!*
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats"
-  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api?username=Samara-Stefani&hide_border=true&show_icons=true&rank_icon=github&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E">
+  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api?username=Samara-Stefani&hide_border=true&show_icons=true&rank_icon=github&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E&v=3">
 
   <img height="180" align="center" alt="Top Language"
-  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api/top-langs/?username=Samara-Stefani&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E">
-</div>
+  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api/top-langs/?username=Samara-Stefani&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E&v=3">
+
   <br><br>
 
   <img align="center" alt="Profile Details"
