@@ -60,11 +60,11 @@
 
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats"
-  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api?username=Samara-Stefani&hide_border=true&show_icons=true&rank_icon=github&title_color=FF79C6&icon_color=C961D6&text_color=C9D1D9&bg_color=2E1A47">
+  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api?username=Samara-Stefani&hide_border=true&show_icons=true&rank_icon=github&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E">
 
   <img height="180" align="center" alt="Top Language"
-  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api/top-langs/?username=Samara-Stefani&layout=compact&hide_border=true&title_color=FF79C6&text_color=C9D1D9&bg_color=2E1A47">
-
+  src="https://vercel-stats-11u39l0jr-samara-stefanis-projects.vercel.app/api/top-langs/?username=Samara-Stefani&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E">
+</div>
   <br><br>
 
   <img align="center" alt="Profile Details"
