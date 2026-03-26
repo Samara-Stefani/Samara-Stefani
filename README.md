@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="73" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA05ED&width=435&lines=Bem-vindo(a)+ao+meu+reposit%C3%B3rio"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA05ED&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+reposit%C3%B3rio" />
+</p>
 
 ###
 
@@ -46,10 +46,10 @@
 
 ---
 
-### 🤖 [AnalyzerHub](Link-do-repositorio)
+### 🌍 [Volta ao mundo](https://github.com/Samara-Stefani/Volta-ao-mundo.git)
 
-`React` `CSS` `API Groq` `Serverless`
-*Projeto que analisa perfis do GitHub com IA, mostra seguidores e gera insights.*
+`HTML` `CSS` `JavaScript` `Bootstrap` 
+*O Volta ao Mundo é um projeto acadêmico desenvolvido com o objetivo de apresentar informações sobre diferentes países de maneira interativa.*
 
 ---
 
