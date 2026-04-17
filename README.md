@@ -47,6 +47,7 @@
 ---
 
 ### 🌍 [Volta ao mundo](https://github.com/Samara-Stefani/Volta-ao-mundo.git)
+`(https://samara-stefani.github.io/Volta-ao-mundo/)`
 
 `HTML` `CSS` `JavaScript` `Bootstrap` 
 *O Volta ao Mundo é um projeto acadêmico desenvolvido com o objetivo de apresentar informações sobre diferentes países de maneira interativa.*
