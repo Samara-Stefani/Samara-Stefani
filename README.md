@@ -82,7 +82,7 @@
 
 
 <div align="center">
-  <img height="99" src="https://capsule-render.vercel.app/api?type=waving&height=98&color=da05ed&fontColor=813191&fontAlign=4&fontAlignY=0&fontSize=-3&section=footer"  />
+  <img height="99" src="[https://capsule-render.vercel.app/api?type=waving&height=98&color=da05ed&fontColor=813191&fontAlign=4&fontAlignY=0&fontSize=-3&section=footer](https://vercel-stats-pink.vercel.app/api?username=Samara-Stefani&debug=true)"  />
 </div>
 
 ###
